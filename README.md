@@ -5,7 +5,8 @@ This is a script to wear and remove earplugs in order to reduce game
 volume down to 20% and back to 100%.
 
 It will also auto-remove the earplugs when you get out of a vehicle.
-INSTALLATION INSTRUCTION:
+
+		INSTALLATION INSTRUCTION:
 
 1.  If you don't have an init.sqf file in your mission folder, copy this one over.
 
