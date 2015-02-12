@@ -15,8 +15,8 @@ INSTALLATION INSTRUCTION:
 
 3.	Edit your battle filter scripts.txt
 
-		edit line 22, or whatever line is your "execvm" line
+	edit line 22, or whatever line is your "execvm" line
 
-		add this to line 22 at the end...
+	add this to line 22 at the end...
 
-!="execVM "\A3\soft_f_gamma\van_01\scripts\clock.sqf";(_this select 0) execVM "\A3\Soft_F_Bootcamp\Van_01\scripts\"
+		!="execVM "\A3\soft_f_gamma\van_01\scripts\clock.sqf";(_this select 0) execVM "\A3\Soft_F_Bootcamp\Van_01\scripts\"
