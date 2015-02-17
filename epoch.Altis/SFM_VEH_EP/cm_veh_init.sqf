@@ -65,4 +65,4 @@ if (_x != player) then
 
 [] spawn cm_Veh_Loop;
 
-hint "done";.
+hint "done";
